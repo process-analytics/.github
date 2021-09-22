@@ -1,4 +1,4 @@
-## Hi there, welcome in the Process Analytics 👋
+## Hi there, Welcome to the `Process Analytics` project  👋
 
 TODO an hero image here?
 
