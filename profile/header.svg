@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet"
-     viewBox="-1 -1 403.32980162308286 161.1083558761647" width="399.33" height="157.11">
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 399.33 80"
+     width="399.33" height="80">
     <defs>
-        <path d="M225.32 0L0 0L0 157.11L225.32 0Z" id="b2Hcclau68"></path>
-        <path d="M141.62 0L0 0L0 157.11L141.62 0Z" id="d2dtkAzJsA"></path>
-        <path d="M159.97 0L399.33 0L399.33 72.56L159.97 0Z" id="c1bijagoVO"></path>
-        <text id="fdsfSv5Vc" x="237.26" y="107.22" font-size="25" font-family="Cabin" font-weight="normal" font-style="normal" letter-spacing="0"
-              alignment-baseline="before-edge" transform="matrix(1 0 0 1 -25.403805970149335 -28.667696588069518)" style="line-height:100%" xml:space="preserve"
+        <path d="M225.32 0L0 0L0 72.57L225.32 0Z" id="ab76S7twL"></path>
+        <path d="M141.62 0L0 0L0 72.57L141.62 0Z" id="a4DfZUJGUa"></path>
+        <path d="M159.97 0L399.33 0L399.33 72.56L159.97 0Z" id="eILzO41wF"></path>
+        <text id="d5V4m6okcn" x="237.26" y="107.22" font-size="25" font-family="Cabin" font-weight="normal" font-style="normal" letter-spacing="0"
+              alignment-baseline="before-edge" transform="matrix(1 0 0 1 -37.63536273102261 -66.6561847155115)" style="line-height:100%" xml:space="preserve"
               dominant-baseline="text-before-edge"><tspan x="237.26" dy="0em" alignment-baseline="before-edge" dominant-baseline="text-before-edge" text-anchor="middle">Process Analytics</tspan></text>
         <style id="cabinnormalnormal">
             @font-face {
@@ -18,11 +19,11 @@
         </style>
     </defs>
     <g>
-        <use xlink:href="#b2Hcclau68" opacity="1" fill="#ccd6dd" fill-opacity="1"></use>
-        <use xlink:href="#d2dtkAzJsA" opacity="1" fill="#e31937" fill-opacity="1"></use>
-        <use xlink:href="#c1bijagoVO" opacity="1" fill="#0b4361" fill-opacity="1"></use>
-        <g id="e2q9DeffaD">
-            <use xlink:href="#fdsfSv5Vc" opacity="1" fill="#0b4361" fill-opacity="1"></use>
+        <use xlink:href="#ab76S7twL" opacity="1" fill="#ccd6dd" fill-opacity="1"></use>
+        <use xlink:href="#a4DfZUJGUa" opacity="1" fill="#e31937" fill-opacity="1"></use>
+        <use xlink:href="#eILzO41wF" opacity="1" fill="#0b4361" fill-opacity="1"></use>
+        <g id="aGiLdoFR8">
+            <use xlink:href="#d5V4m6okcn" opacity="1" fill="#0b4361" fill-opacity="1"></use>
         </g>
     </g>
 </svg>
