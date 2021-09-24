@@ -3,13 +3,13 @@
         <img src="./header.svg" alt="Header" width="100%" height="auto">
     </p>
     <p align="center">
-        <a href="https://process-analytics.dev" style="margin-right: 10px">
+        <a href="https://process-analytics.dev" style="margin-right: 15px">
           <img alt="website" src="./logo/website.svg" height="35px"> 
         </a> 
-        <a href="https://twitter.com/ProcessAnalyti1" style="margin-right: 10px">
+        <a href="https://twitter.com/ProcessAnalyti1" style="margin-right: 15px">
           <img alt="twitter" src="./logo/twitter.svg" height="35px"> 
         </a> 
-        <a href="https://medium.com/@process-analytics" style="margin-right: 10px">
+        <a href="https://medium.com/@process-analytics" style="margin-right: 15px">
           <img alt="medium" src="./logo/medium.svg" height="35px"> 
         </a> 
         <a href="https://dev.to/process-analytics">
