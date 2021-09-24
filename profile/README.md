@@ -1,14 +1,5 @@
 <img src="./header.svg" alt="Header" width="100%" height="auto">
 
-## ?????  👋
-
-<!--
-Hi there
-### 🙋‍♀️ Process Analytics what is this?
-
-Welcome to the Process Analytics project 
--->
-
 ### 🎯 The Process Analytics mission 
 
 > Rapidly display meaningful Process Analytics components in your web pages using BPMN 2.0 notation and Open Source libraries.
