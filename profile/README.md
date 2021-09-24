@@ -1,3 +1,5 @@
+<img src="./header.svg" alt="Header" width="100%" height="auto">
+
 ## ?????  👋
 
 <!--
@@ -35,3 +37,4 @@ Interested in contributing as part of [Hacktoberfest](https://hacktoberfest.digi
 
 Want to use the same kind of image to call for Hacktoberfest contributions in your own project or repository? ⏩ Just click on the image to access to a live demo. You will be able to display the name you want within the diagram!
 
+<img src="./footer.svg" alt="Footer" width="100%" height="auto">
