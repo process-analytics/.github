@@ -1,19 +1,19 @@
 <div style="margin-bottom: 30px">
     <p>
-        <img src="./header.svg" alt="Header" width="100%" height="auto">
+        <img src="https://raw.githubusercontent.com/process-analytics/.github/main/profile/header.svg" alt="Header" width="100%" height="auto">
     </p>
     <p align="center">
         <a href="https://process-analytics.dev" style="margin-right: 15px">
-          <img alt="website" src="./logo/website.svg" height="35px"> 
+          <img alt="website" src="https://raw.githubusercontent.com/process-analytics/.github/main/profile/logo/website.svg" height="35px"> 
         </a> 
         <a href="https://twitter.com/ProcessAnalyti1" style="margin-right: 15px">
-          <img alt="twitter" src="./logo/twitter.svg" height="35px"> 
+          <img alt="twitter" src="https://raw.githubusercontent.com/process-analytics/.github/main/profile/logo/twitter.svg" height="35px"> 
         </a> 
         <a href="https://medium.com/@process-analytics" style="margin-right: 15px">
-          <img alt="medium" src="./logo/medium.svg" height="35px"> 
+          <img alt="medium" src="https://raw.githubusercontent.com/process-analytics/.github/main/profile/logo/medium.svg" height="35px"> 
         </a> 
         <a href="https://dev.to/process-analytics">
-          <img alt="dev.to" src="./logo/dev_to.svg" height="35px"> 
+          <img alt="dev.to" src="https://raw.githubusercontent.com/process-analytics/.github/main/profile/logo/dev_to.svg" height="35px"> 
         </a> 
     </p>
 </div>  
@@ -28,7 +28,7 @@ Want more details? Visit our [website](https://process-analytics.dev/).
 ### 🌈 Contributing to the ecosystem
 
 
-![Cheat sheet image](cheat_sheet.png)
+![An cheat sheet showing how to quickly contribute to the Process Analytics project](https://raw.githubusercontent.com/process-analytics/.github/main/profile/cheat_sheet.png)
 
 
 Our spearhead project is [bpmn-visualization](https://github.com/process-analytics/bpmn-visualization-js/) 🔱, a TypeScript library for visualizing process execution data on [BPMN diagrams](https://www.bpmn.org/). It comes with its companion [examples](https://github.com/process-analytics/bpmn-visualization-examples/) repository ✨.
