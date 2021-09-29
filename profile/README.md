@@ -1,19 +1,19 @@
 <div style="margin-bottom: 30px">
     <p>
-        <img src="./header.svg" alt="Header" width="100%" height="auto">
+        <img src="https://raw.githubusercontent.com/process-analytics/.github/main/profile/header.svg" alt="Header" width="100%" height="auto">
     </p>
     <p align="center">
         <a href="https://process-analytics.dev" style="margin-right: 15px">
-          <img alt="website" src="./logo/website.svg" height="35px"> 
+          <img alt="website" src="https://raw.githubusercontent.com/process-analytics/.github/main/profile/logo/website.svg" height="35px"> 
         </a> 
         <a href="https://twitter.com/ProcessAnalyti1" style="margin-right: 15px">
-          <img alt="twitter" src="./logo/twitter.svg" height="35px"> 
+          <img alt="twitter" src="https://raw.githubusercontent.com/process-analytics/.github/main/profile/logo/twitter.svg" height="35px"> 
         </a> 
         <a href="https://medium.com/@process-analytics" style="margin-right: 15px">
-          <img alt="medium" src="./logo/medium.svg" height="35px"> 
+          <img alt="medium" src="https://raw.githubusercontent.com/process-analytics/.github/main/profile/logo/medium.svg" height="35px"> 
         </a> 
         <a href="https://dev.to/process-analytics">
-          <img alt="dev.to" src="./logo/dev_to.svg" height="35px"> 
+          <img alt="dev.to" src="https://raw.githubusercontent.com/process-analytics/.github/main/profile/logo/dev_to.svg" height="35px"> 
         </a> 
     </p>
 </div>  
