@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet"
+     viewBox="-1 -1.000742187500009 319.95429687499995 184.0107421875" width="315.95" height="180.01">
+    <defs>
+        <path d="M90.01 0C40.3 0 0 40.3 0 90C0 139.71 40.3 180.01 90.01 180.01C139.71 180.01 180.01 139.71 180.01 90C180.01 40.3 139.71 0 90.01 0Z"
+              id="a3ttglE9b9"></path>
+        <path d="M271.91 89.49C271.91 135.71 253.66 173.18 231.16 173.18C208.65 173.18 190.4 135.71 190.4 89.49C190.4 43.28 208.65 5.81 231.16 5.81C253.66 5.81 271.91 43.28 271.91 89.49Z"
+              id="a2i7sBVR8f"></path>
+        <path d="M315.95 90C315.95 131.77 308.81 165.63 300 165.63C291.19 165.63 284.04 131.77 284.04 90C284.04 48.24 291.19 14.37 300 14.37C308.81 14.37 315.95 48.24 315.95 90Z"
+              id="i7nxmrNYIV"></path>
+    </defs>
+    <g>
+        <use xlink:href="#a3ttglE9b9" opacity="1" fill="#000000" fill-opacity="1"></use>
+        <use xlink:href="#a2i7sBVR8f" opacity="1" fill="#000000" fill-opacity="1"></use>
+        <use xlink:href="#i7nxmrNYIV" opacity="1" fill="#000000" fill-opacity="1"></use>
+    </g>
+</svg>
