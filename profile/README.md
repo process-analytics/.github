@@ -10,7 +10,7 @@
           <img alt="twitter" src="https://raw.githubusercontent.com/process-analytics/.github/main/profile/logo/twitter.svg" height="35px"> 
         </a> 
         <a href="https://medium.com/@process-analytics" style="margin-right: 15px">
-          <img alt="medium" src="https://raw.githubusercontent.com/process-analytics/.github/main/profile/logo/medium.svg" height="35px"> 
+          <img alt="medium" src="logo/medium.svg" height="35px"> 
         </a> 
         <a href="https://dev.to/process-analytics">
           <img alt="dev.to" src="https://raw.githubusercontent.com/process-analytics/.github/main/profile/logo/dev_to.svg" height="35px"> 
