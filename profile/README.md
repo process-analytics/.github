@@ -1,6 +1,6 @@
 <div style="margin-bottom: 30px">
     <p>
-        <img src="header.svg" alt="Header" width="100%" height="auto">
+        <img src="https://raw.githubusercontent.com/process-analytics/.github/main/profile/header.svg" alt="Header" width="100%" height="auto">
     </p>
     <p align="center">
         <a href="https://process-analytics.dev" style="margin-right: 15px">
