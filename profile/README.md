@@ -15,7 +15,7 @@
         <a href="https://dev.to/process-analytics" style="margin-right: 15px">
           <img alt="dev.to" src="https://raw.githubusercontent.com/process-analytics/.github/main/profile/logo/dev_to.svg" height="35px"> 
         </a> 
-        <a href="https://discord.gg/GKhcFpZKkm">
+        <a href="https://discord.gg/db7t9qQFa4">
           <img alt="discord" src="https://raw.githubusercontent.com/process-analytics/.github/main/profile/logo/discord.svg" height="35px"> 
         </a> 
     </p>
