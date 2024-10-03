@@ -37,7 +37,7 @@ Want more details? Visit our [website](https://process-analytics.dev/).
 ![An cheat sheet showing how to quickly contribute to the Process Analytics project](https://raw.githubusercontent.com/process-analytics/.github/main/profile/cheat_sheet.png)
 
 
-Our cornerstone project is [bpmn-visualization](https://github.com/process-analytics/bpmn-visualization-js/) 🔱, a TypeScript library for visualizing process execution data on [BPMN diagrams](https://www.bpmn.org/). It comes with a companion [examples](https://github.com/process-analytics/bpmn-visualization-examples/) repository ✨ and a set of [addons](https://github.com/process-analytics/bv-experimental-add-ons/) offering additional functionalities ➕.
+Our cornerstone project is [bpmn-visualization](https://github.com/process-analytics/bpmn-visualization-js/) 🔱, a TypeScript library for visualizing process execution data on [BPMN diagrams](https://www.bpmn.org/). It comes with a companion [examples](https://github.com/process-analytics/bpmn-visualization-examples/) repository ✨ and a set of [addons](https://github.com/process-analytics/bpmn-visualization-addons/) offering additional functionalities ➕.
 
 R users 📈 will be interested in [bpmnVisualizationR](https://github.com/process-analytics/bpmn-visualization-R/), the R package for visualizing process execution data on BPMN diagrams, using overlays, style customization and interactions.
 
