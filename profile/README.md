@@ -15,9 +15,6 @@
         <a href="https://dev.to/process-analytics" style="margin-right: 15px">
           <img alt="dev.to" src="https://raw.githubusercontent.com/process-analytics/.github/main/profile/logo/dev_to.svg" height="35px"> 
         </a> 
-        <a href="https://discord.gg/HafnBYsRXd"  style="margin-right: 15px">
-          <img alt="discord" src="https://raw.githubusercontent.com/process-analytics/.github/main/profile/logo/discord.svg" height="35px"> 
-        </a> 
         <a href="https://www.youtube.com/channel/UCzmcChXi_YmQGmPizzKX8pA">
           <img alt="youtube" src="https://raw.githubusercontent.com/process-analytics/.github/main/profile/logo/youtube.svg" height="35px"> 
         </a> 
